@@ -1,0 +1,6 @@
+E:\Documents\ING SISTEMAS - Semestre 5\Programacion III\Proyecto de aula\Proyecto del Manual\ENTITY\bin\Debug\ENTITY.dll
+E:\Documents\ING SISTEMAS - Semestre 5\Programacion III\Proyecto de aula\Proyecto del Manual\ENTITY\bin\Debug\ENTITY.pdb
+E:\Documents\ING SISTEMAS - Semestre 5\Programacion III\Proyecto de aula\Proyecto del Manual\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+E:\Documents\ING SISTEMAS - Semestre 5\Programacion III\Proyecto de aula\Proyecto del Manual\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+E:\Documents\ING SISTEMAS - Semestre 5\Programacion III\Proyecto de aula\Proyecto del Manual\ENTITY\obj\Debug\ENTITY.dll
+E:\Documents\ING SISTEMAS - Semestre 5\Programacion III\Proyecto de aula\Proyecto del Manual\ENTITY\obj\Debug\ENTITY.pdb

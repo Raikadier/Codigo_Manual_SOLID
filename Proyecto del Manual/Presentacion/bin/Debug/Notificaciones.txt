@@ -1,0 +1,6 @@
+1;29/03/2025 12:48:11 a. m.;Nuevo usuario registrado: Juan con rol Estudiante
+2;29/03/2025 12:49:08 a. m.;Nuevo usuario registrado: Camilo con rol Estudiante
+3;29/03/2025 12:50:08 a. m.;Nuevo Proyecto registrado: Relacion de la practica de valores sociales y la disciplica escolar
+4;29/03/2025 12:50:42 a. m.;Nuevo usuario registrado: Luis con rol Docente
+5;29/03/2025 12:51:04 a. m.;Un usuario fue modificado: Luis (Luis@gmail a Retegui (Retegui@gmail))
+6;29/03/2025 12:53:23 a. m.;Un usuario fue modificado: Retegui (Retegui@gmail) a Marcos (Marcos@gmail)
