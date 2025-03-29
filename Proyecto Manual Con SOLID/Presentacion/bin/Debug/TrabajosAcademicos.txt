@@ -1,0 +1,2 @@
+1;Investigacion sobre Inteligencia Artificial;Fernandez;Pasantia
+2;Los estilos de aprendizaje en rendimiento academico;ramirez;Proyecto

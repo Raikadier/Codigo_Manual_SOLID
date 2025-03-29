@@ -1,0 +1,5 @@
+1;fernandez;fernandez@gmail;Docente
+2;Pedro;Pedro@gmail;Estudiante
+3;Emanuel;Emanuel@gmail;Estudiante
+4;Ramirez;Ramirez@gmail;Estudiante
+5;Figueroa;Figueroa@gmail.com;Estudiante

@@ -1,0 +1,6 @@
+E:\Documents\ING SISTEMAS - Semestre 5\Programacion III\Proyecto de aula\Proyecto Manual Con SOLID\ENTITY\bin\Debug\ENTITY.dll
+E:\Documents\ING SISTEMAS - Semestre 5\Programacion III\Proyecto de aula\Proyecto Manual Con SOLID\ENTITY\bin\Debug\ENTITY.pdb
+E:\Documents\ING SISTEMAS - Semestre 5\Programacion III\Proyecto de aula\Proyecto Manual Con SOLID\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+E:\Documents\ING SISTEMAS - Semestre 5\Programacion III\Proyecto de aula\Proyecto Manual Con SOLID\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+E:\Documents\ING SISTEMAS - Semestre 5\Programacion III\Proyecto de aula\Proyecto Manual Con SOLID\ENTITY\obj\Debug\ENTITY.dll
+E:\Documents\ING SISTEMAS - Semestre 5\Programacion III\Proyecto de aula\Proyecto Manual Con SOLID\ENTITY\obj\Debug\ENTITY.pdb
